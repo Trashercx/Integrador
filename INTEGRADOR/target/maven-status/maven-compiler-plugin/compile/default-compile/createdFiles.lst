@@ -1,0 +1,14 @@
+com\ticketsystem\model\Boleto.class
+com\ticketsystem\test\TestJDBCConnection.class
+com\ticketsystem\dao\PersonaDAO.class
+com\ticketsystem\dao\BoletoDAO.class
+com\ticketsystem\servlet\RegistroServlet.class
+com\ticketsystem\servlet\CatalogoEventosServlet.class
+com\ticketsystem\servlet\CompraServlet.class
+com\ticketsystem\servlet\Detalle_eventoservlet.class
+com\ticketsystem\model\Compra.class
+com\ticketsystem\servlet\LoginServlet.class
+com\ticketsystem\dao\CompraDAO.class
+com\ticketsystem\dao\EventoDAO.class
+com\ticketsystem\model\Evento.class
+com\ticketsystem\model\Persona.class
